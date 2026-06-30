@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Saad Ur Rehman</h1>
 
-<h3 align="center">🚀 Full Stack Developer • AI & Computer Vision Engineer • Python Automation</h3>
+<h3 align="center"> Full Stack Developer • AI & Computer Vision Engineer • Python Automation</h3>
 
 <p align="center">Building AI-powered products, scalable web applications, and intelligent automation systems.</p>
 
