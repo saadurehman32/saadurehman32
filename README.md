@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 💻 Full Stack Developer from Pakistan
 - 🤖 Passionate about AI, Computer Vision, and Workflow Automation
@@ -27,7 +27,7 @@
 
 ---
 
-### 🔥 What I'm Building
+###  What I'm Building
 
 | Project | Description |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 **Languages**
 <p align="left">
@@ -72,7 +72,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 🦺 VisionForge AI
 Computer vision system for PPE detection and construction hazard recognition.
@@ -94,7 +94,7 @@ Enterprise management platform built in .NET and Blazor.
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=saadurehman32&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -105,19 +105,19 @@ Enterprise management platform built in .NET and Blazor.
   <img src="https://streak-stats.demolab.com?user=saadurehman32&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadurehman32&theme=tokyo-night" alt="activity graph" />
 </p>
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-### 🏆 Achievements
+###  Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saadurehman32&theme=algolia&row=1&column=7&margin-w=10" alt="trophies" />
@@ -125,7 +125,7 @@ Enterprise management platform built in .NET and Blazor.
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saad-ur-rehman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
